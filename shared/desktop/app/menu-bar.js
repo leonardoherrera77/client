@@ -48,6 +48,10 @@ export default function () {
     showDockIcon: true,
   })
 
+  if (isWindows) {
+    mb.setOption('windowPosition', 'winStartMenu')
+  }
+
   const updateIcon = (invertColors) => {
     mb.tray.setImage(getIcon(invertColors))
   }

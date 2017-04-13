@@ -63,7 +63,7 @@
     "jsonfile": "2.4.0",
     "lodash": "4.17.4",
     "material-ui": "0.15.4",
-    "menubar": "5.1.0",
+    "menubar": "https://github.com/keybase/menubar#zanderz/DESKTOP-1292",
     "mkdirp": "0.5.1",
     "moment": "2.18.0",
     "purepack": "1.0.4",
